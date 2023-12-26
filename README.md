@@ -10,7 +10,7 @@
   <a href="https://twitter.com/shivansh0075" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:shivanshdelhi@gmail.com">
+  <a href="mailto:shivanshkhurana2003@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
 </p>
@@ -21,7 +21,7 @@
  - 🌱 I’m currently learning Data Structures and Algorithms
  - 🤔 I’m looking for help with Competitive Programming.
  - 💬 Ask me about anything that exites me.
- - 📫 You can reach me at shivanshdelhi@gmail.com
+ - 📫 You can reach me at shivanshkhurana2003@gmail.com
  - Click here to see my <a href = "https://drive.google.com/file/d/1Rf2Vd82BT-FMdVo-PP-LaHdB4KTy9bNO/view?usp=sharing"> Resume</a>
 
 
