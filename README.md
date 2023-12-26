@@ -17,10 +17,10 @@
 
 
 
- - 🔭 I’m currently working on Backend Development in java.
+ - 🔭 I’m currently working on Backend Development in Java.
  - 🌱 I’m currently learning Data Structures and Algorithms
  - 🤔 I’m looking for help with Competitive Programming.
- - 💬 Ask me about anything that exites me.
+ - 💬 Ask me about anything that excites me.
  - 📫 You can reach me at shivanshkhurana2003@gmail.com
  - Click here to see my <a href = "https://drive.google.com/file/d/1Rf2Vd82BT-FMdVo-PP-LaHdB4KTy9bNO/view?usp=sharing"> Resume</a>
 
