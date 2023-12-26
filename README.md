@@ -4,7 +4,7 @@
 <h2 align="center">I'm Shivansh Khurana </h2>
 <h3 align="center">Connect With Me !!! </h3> 
 <p align="center">  
-  <a href="https://www.linkedin.com/in/mayank-goel-55a299200/](https://www.linkedin.com/in/shivansh-khurana/" target="_blank">
+  <a href="https://www.linkedin.com/in/shivansh-khurana/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/shivansh0075" target="_blank">
